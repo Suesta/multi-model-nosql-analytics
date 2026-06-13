@@ -1,2 +1,2 @@
 # multi-model-nosql-analytics
-End-to-end NoSQL data modeling and analytics project using Cassandra, Neo4j, and MongoDB for query-driven storage design, graph analysis, document aggregation, and operational updates.
+Multi-model NoSQL analytics project combining Cassandra, Neo4j, and MongoDB to solve data access patterns across wide-column, graph, and document-oriented databases.
